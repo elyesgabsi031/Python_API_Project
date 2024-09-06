@@ -5,9 +5,7 @@
 
 This project is a RESTful API designed to supply a variety of Mediterranean cuisine recipes. Built using FastAPI, the API allows users to create and manage their accounts, authenticate, and access a collection of recipes. The API supports various functionalities such as retrieving all recipes, adding new recipes, searching for recipes by ingredients or country, and managing user accounts. The project was made for academic purposes.
 
-<br>
-<br>
-![Mediterranean](./medi.png)
+![Mediterranean](medi "the mediterranean")
 
 ## Features
 
