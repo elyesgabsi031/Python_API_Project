@@ -7,7 +7,7 @@ This project is a RESTful API designed to supply a variety of Mediterranean cuis
 
 <br>
 <br>
-![Mediterranean](medi.jpg)
+![Mediterranean](medi)
 
 ## Features
 
