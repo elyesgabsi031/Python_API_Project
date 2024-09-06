@@ -7,7 +7,7 @@ This project is a RESTful API designed to supply a variety of Mediterranean cuis
 
 <br>
 <br>
-![Mediterranean](https://github.com/elyesgabsi031/Python_API_Project/med.jpg)
+![Mediterranean](https://github.com/elyesgabsi031/Python_API_Project/blob/main/med.jpg?raw=true)
 
 ## Features
 
